@@ -3,3 +3,8 @@ C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\bin\Release
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Release\CapaDatos.dll
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Release\CapaDatos.pdb
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaDatos\bin\Release\CapaDatos.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaDatos\bin\Release\CapaDatos.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaDatos\obj\Release\CapaDatos.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaDatos\obj\Release\CapaDatos.pdb

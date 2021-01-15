@@ -15,3 +15,19 @@ C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin
 C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Release\AplicacionEmpresa.exe.config
 C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.exe
 C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\AplicacionEmpresa.exe.config
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\AplicacionEmpresa.exe
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\AplicacionEmpresa.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaPresentacion.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaNegocio.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaDatos.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaPresentacion.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaNegocio.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\bin\Release\CapaDatos.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.csprojAssemblyReference.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.Properties.Resources.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.csproj.GenerateResource.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.csproj.CoreCompileInputs.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.csproj.CopyComplete
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.exe
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.pdb
