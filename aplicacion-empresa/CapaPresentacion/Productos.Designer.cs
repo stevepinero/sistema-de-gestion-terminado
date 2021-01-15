@@ -213,10 +213,10 @@
             this.textBoxBuscarNombre.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBoxBuscarNombre.Font = new System.Drawing.Font("DejaVu Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxBuscarNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxBuscarNombre.Location = new System.Drawing.Point(73, 3);
             this.textBoxBuscarNombre.Name = "textBoxBuscarNombre";
-            this.textBoxBuscarNombre.Size = new System.Drawing.Size(120, 23);
+            this.textBoxBuscarNombre.Size = new System.Drawing.Size(120, 22);
             this.textBoxBuscarNombre.TabIndex = 1;
             this.textBoxBuscarNombre.TextChanged += new System.EventHandler(this.textBoxBuscarNombre_TextChanged);
             // 

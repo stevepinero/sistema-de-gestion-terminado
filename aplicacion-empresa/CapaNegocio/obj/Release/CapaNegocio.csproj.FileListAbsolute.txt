@@ -5,3 +5,12 @@ C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\bin\Relea
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Release\CapaNegocio.dll
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Release\CapaNegocio.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\bin\Release\CapaNegocio.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\bin\Release\CapaNegocio.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\bin\Release\CapaDatos.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\bin\Release\CapaDatos.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\obj\Release\CapaNegocio.csprojAssemblyReference.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\obj\Release\CapaNegocio.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaNegocio\obj\Release\CapaNegocio.pdb

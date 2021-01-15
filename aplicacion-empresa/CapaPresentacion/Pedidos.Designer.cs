@@ -226,7 +226,7 @@
             this.dataGridViewPedidosPendientes.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Candara", 15.75F, System.Drawing.FontStyle.Bold);
             dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.Window;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
@@ -238,7 +238,7 @@
             this.ver_pedidos});
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Candara", 15.75F);
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Candara", 15.75F, System.Drawing.FontStyle.Bold);
             dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.Desktop;
             dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.DodgerBlue;
             dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.Control;
@@ -309,7 +309,7 @@
             this.dataGridViewPedidosEntregados.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Candara", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.Window;
             dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
@@ -321,7 +321,7 @@
             this.dataGridViewButtonColumn1});
             dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Candara", 15.75F);
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Candara", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.Desktop;
             dataGridViewCellStyle8.SelectionBackColor = System.Drawing.Color.DodgerBlue;
             dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.Control;
@@ -529,10 +529,10 @@
             this.textBoxBuscarNombre.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBoxBuscarNombre.Font = new System.Drawing.Font("DejaVu Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxBuscarNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxBuscarNombre.Location = new System.Drawing.Point(69, 3);
             this.textBoxBuscarNombre.Name = "textBoxBuscarNombre";
-            this.textBoxBuscarNombre.Size = new System.Drawing.Size(124, 23);
+            this.textBoxBuscarNombre.Size = new System.Drawing.Size(124, 22);
             this.textBoxBuscarNombre.TabIndex = 1;
             this.textBoxBuscarNombre.TextChanged += new System.EventHandler(this.textBoxBuscarNombre_TextChanged);
             // 

@@ -34,3 +34,41 @@ C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaPresentacion\obj\
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarPedidoPendiente.resources
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmMarcarPendiente.resources
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmReportes.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaPresentacion.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaNegocio.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaDatos.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaNegocio.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\bin\Release\CapaDatos.pdb
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.csprojAssemblyReference.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Categorias.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Empleados.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevaCategoria.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevoCliente.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevoPedido.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevoProducto.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevoTransporte.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarCategoria.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarCliente.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarEmpleado.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmAgregarNuevoEmpleado.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarPedidoEntregado.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarPedidoPendiente.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarProducto.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmEditarTransporte.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmInicio.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmMarcarEntregado.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmMarcarPendiente.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmPedidoEntregadoDetalles.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmPedidoPendienteDetalles.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.FrmReportes.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Pedidos.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Productos.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.Transporte.resources
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.dll
+D:\C#\Colaboracion sistema de gestion - GitHub\aplicacion-empresa\CapaPresentacion\obj\Release\CapaPresentacion.pdb
