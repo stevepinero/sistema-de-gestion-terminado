@@ -20,7 +20,8 @@ namespace CapaPresentacion
         Categorias categorias;
         Productos productos;
         Pedidos pedidos;
-
+ 
+       
         public FrmInicio()
         {
             String mensaje = NConexion.ChequearConexion();
@@ -44,94 +45,44 @@ namespace CapaPresentacion
             this.panelContenedor.Controls.Add(pedidos);
         }
 
+        private static UserControl formularioActivo = null;
+        public void ActivarFormularios(UserControl nuevoFormulario)
+        {
+            if (formularioActivo != null)
+                this.panelContenedor.Controls.Clear();
+
+            formularioActivo = nuevoFormulario;
+            this.panelContenedor.Controls.Add(nuevoFormulario);
+        }
         private void buttonEmpleados_Click(object sender, EventArgs e)
         {
-            if (empleados == null)
-            {
-                empleados = new Empleados();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(empleados);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(empleados);
-            }
+            ActivarFormularios(empleados = new Empleados());
         }
-
+        
         private void buttonTransporte_Click(object sender, EventArgs e)
         {
-            if (transporte == null)
-            {
-                transporte = new Transporte();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(transporte);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(transporte);
-            }
+            //Implementacion de la refactorizacion:
+            ActivarFormularios(transporte = new Transporte());
         }
 
         private void buttonClientes_Click(object sender, EventArgs e)
         {
-            if (clientes == null)
-            {
-                clientes = new Clientes();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(clientes);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(clientes);
-            }
+   ActivarFormularios(clientes = new Clientes());
         }
-
+       
         private void buttonCategorias_Click(object sender, EventArgs e)
         {
-            if (categorias == null)
-            {
-                categorias = new Categorias();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(categorias);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(categorias);
-            }
+             ActivarFormularios(categorias = new Categorias());
         }
 
         private void buttonProductos_Click(object sender, EventArgs e)
         {
-            if (productos == null)
-            {
-                productos = new Productos();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(productos);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(productos);
-            }
+            ActivarFormularios(productos = new Productos());
         }
 
         private void buttonPedidos_Click(object sender, EventArgs e)
         {
-            if (pedidos == null)
-            {
-                pedidos = new Pedidos();
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(pedidos);
-            }
-            else
-            {
-                this.panelContenedor.Controls.Clear();
-                this.panelContenedor.Controls.Add(pedidos);
-            }
+           ActivarFormularios(pedidos = new Pedidos());
         }
 
         private void buttonReportes_Click(object sender, EventArgs e)
@@ -243,6 +194,7 @@ namespace CapaPresentacion
                             {
                                 this.transporte.Refrescar();
                             }
+                            
                         }
                         else
                         {
@@ -250,11 +202,7 @@ namespace CapaPresentacion
                                 MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
                     }
-                    catch (IOException ex)
-                    {
-                        MessageBox.Show(ex.Message, "Restaurar Copia de Seguridad",
-                                MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                    
                     catch (Exception ex)
                     {
                         MessageBox.Show(ex.Message, "Restaurar Copia de Seguridad",
